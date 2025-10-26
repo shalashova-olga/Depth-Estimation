@@ -1,0 +1,9 @@
+.git
+.gitignore
+.venv/
+__pycache__/
+*.py[cod]
+data/
+datasets/
+download_dataset.sh.log
+.DS_Store
