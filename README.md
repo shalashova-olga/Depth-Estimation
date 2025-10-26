@@ -59,7 +59,7 @@ git clone https://github.com/princeton-vl/RAFT-Stereo.git
 cd dl-cv-home-test
 ```
 
-### Весы
+### Параметры моделей
 
 - **Depth-Anything** — загружается из hub (`DepthAnything.from_pretrained`).
 - **CREStereo** — файл `crestereo_eth3d.pth` ожидается в `CREStereo-Pytorch/models/` или `dl-cv-home-test/models/`. Можно взять из [релиза проекта](https://github.com/ibaiGorordo/CREStereo-Pytorch).
