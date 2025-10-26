@@ -32,7 +32,7 @@ dl-cv-home-test/
 ## Подготовка окружения
 
 ```bash
-git clone https://github.com/<your-account>/dl-cv-home-test.git
+git clone https://github.com/shalashova-olga/dl-cv-home-test.git
 cd dl-cv-home-test
 
 conda create -n dlcv python=3.10 -y
